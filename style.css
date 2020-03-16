@@ -49,12 +49,13 @@ h2 {
     height: 600px;
 
 }
-aside{
-    width: 25%;
-    height: 300px;
+aside {
+    width: 15%;
+    height: 500px;
     background-color: yellow;
     float: left;
 }
+
 .fa-blog {
     font-size: 30px;
     margin-left: 10px;
